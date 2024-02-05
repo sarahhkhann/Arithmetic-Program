@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Arithmetic Program</string>
+    <string name="spinner_prompt">CALCULate</string>
+    <string-array name="options">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Divide</item>
+        <item>Multiply</item>
+        <item>Modulus</item>
+    </string-array>
+</resources>
