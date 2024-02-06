@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Arithmetic Program</string>
+    <string name="app_name">SarahKhan-ArithmeticProgram</string>
     <string name="spinner_prompt">CALCULate</string>
     <string-array name="options">
         <item>Add</item>
