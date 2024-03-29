@@ -1,2 +1,2 @@
-## CS 501 Assignment 2 - Simple Arithmetic Program
-A program that performs basic arithmetic operations.
+## cs 501 assignment 2 - simple arithmetic program
+a program that performs basic arithmetic operations.
